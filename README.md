@@ -55,5 +55,6 @@ Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
 
-##Run SwaggerUI
+## Run SwaggerUI
+
 http://localhost:8080/q/swagger-ui/#/
